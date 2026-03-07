@@ -11,4 +11,4 @@
   Follow the on-screen instructions to select the mode (Encrypt/Decrypt) and enter your inputs.
 ## Tools used
   pycharm 
-  PIL library
+  ,PIL library
