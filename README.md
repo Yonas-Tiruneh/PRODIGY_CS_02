@@ -1,4 +1,7 @@
 ## PRODIGY_CS_02:Image Encryption
+
+## Developed by: Yonas Tiruneh
+
    This project is a simple python based tool for image encryption and decryption. it allows a users input an image file and a secret key to secure their image
    
 ## Features 
